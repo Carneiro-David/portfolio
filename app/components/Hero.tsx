@@ -42,6 +42,7 @@ export default function Hero() {
 
             <a
               href="/cv/CV-david.pdf"
+              download="CV-David-Carneiro.pdf"
               className="px-6 py-3 rounded-xl border border-white/10 bg-white/5 hover:bg-white/10 transition"
             >
               Télécharger CV
