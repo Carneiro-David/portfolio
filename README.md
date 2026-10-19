@@ -1,30 +1,94 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 💻 Portfolio — David Carneiro
 
-## Getting Started
+### Développeur BI / Data | Full Stack | Intelligence Artificielle
 
-First, run the development server:
+Bienvenue sur le dépôt GitHub de mon portfolio professionnel !
+
+Ce site a pour objectif de présenter mon parcours, mes compétences techniques et mes projets dans les domaines de la **Business Intelligence, de la Data Science, du développement Full Stack et de l'Intelligence Artificielle**.
+
+## 👨‍💻 À propos de moi
+
+Diplômé d'un **Master Big Data & Intelligence Artificielle**, je possède quatre années d'expérience en alternance chez Qualiconsult, principalement dans le développement de solutions BI et l'exploitation de données métiers.
+
+Mes compétences principales s'articulent autour de SQL, SAP HANA, SAP Analytics Cloud, Python et de la modélisation de données.
+
+Je m'intéresse également au développement d'applications web, au Machine Learning et aux nouvelles technologies Data.
+
+## 🚀 Technologies du portfolio
+
+- **Framework :** Next.js
+- **Interface :** React
+- **Environnement :** Node.js
+- **Gestion de versions :** Git & GitHub
+
+## 📂 Projets à découvrir
+
+### 🚗 Analyse des accidents routiers (2014–2023)
+
+Application web interactive permettant d'explorer les données d'accidents routiers en France, d'analyser les facteurs de risque et d'expérimenter différents modèles prédictifs.
+
+**Technologies :** Python, Pandas, Plotly Dash, Flask, SQLite, scikit-learn, XGBoost et LightGBM.
+
+### 🧠 Reconnaissance des expressions faciales (FER)
+
+Application web intégrant un système d'intelligence artificielle pour analyser les expressions faciales des utilisateurs et expérimenter la personnalisation de contenus.
+
+**Domaines :** Computer Vision, Deep Learning et développement Full Stack.
+
+### 📚 Gestion de bibliothèque
+
+Application web interne développée pour gérer un catalogue de livres, les comptes utilisateurs, les emprunts et les restitutions.
+
+**Technologies :** PHP, Symfony, Doctrine ORM et MySQL.
+
+## 🛠️ Installation locale
+
+### Prérequis
+
+- Node.js
+- npm
+- Git
+
+### Cloner le projet
+
+```bash
+git clone https://github.com/Carneiro-David/portfolio.git
+cd portfolio
+```
+
+### Installer les dépendances
+
+```bash
+npm install
+```
+
+### Lancer le serveur de développement
 
 ```bash
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Ouvrir ensuite [http://localhost:3000](http://localhost:3000) dans un navigateur.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🎯 Objectifs
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Ce portfolio est un projet personnel évolutif visant à :
 
-## Learn More
+- Présenter mon parcours professionnel et académique.
+- Valoriser mes réalisations en BI, Data et développement.
+- Partager mes projets et expérimentations techniques.
+- Développer mes compétences en technologies web modernes.
 
-To learn more about Next.js, take a look at the following resources:
+## 📬 Contact
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+**David Carneiro**
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+📍 Oullins-Pierre-Bénite, région lyonnaise, France
 
-## Deploy on Vercel
+📧 [david.carneiro2301@gmail.com](mailto:david.carneiro2301@gmail.com)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+💻 [GitHub — Carneiro-David](https://github.com/Carneiro-David)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+*Portfolio personnel — Développement et amélioration continue.*
