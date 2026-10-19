@@ -16,14 +16,14 @@ export default function Contact() {
 
         <div className="mt-10 flex flex-wrap justify-center gap-4">
           <a
-            href="mailto:ton-email@example.com"
+            href="mailto:david.carneiro2301@gmail.com"
             className="px-6 py-3 rounded-xl bg-white text-black font-medium hover:bg-white/90 transition"
           >
             Me contacter
           </a>
 
           <a
-            href="https://www.linkedin.com/"
+            href="https://www.linkedin.com/in/david-carneiro-840877205/"
             target="_blank"
             className="px-6 py-3 rounded-xl border border-white/10 bg-white/5 hover:bg-white/10 transition"
           >
@@ -31,7 +31,7 @@ export default function Contact() {
           </a>
 
           <a
-            href="https://github.com/"
+            href="https://github.com/Carneiro-David"
             target="_blank"
             className="px-6 py-3 rounded-xl border border-white/10 bg-white/5 hover:bg-white/10 transition"
           >
